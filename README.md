@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rafahitgub/fourCardReto)
-- Live Site URL: [Add live site URL here](https://rafahitgub.github.io/fourCardReto/)
+- [Solution URL](https://github.com/rafahitgub/fourCardReto)
+- [Live Site URL](https://rafahitgub.github.io/fourCardReto/)
 
 ## My process
 
