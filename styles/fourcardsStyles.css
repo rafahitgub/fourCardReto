@@ -35,7 +35,7 @@ body{
 }
 #tarjetasHeader > p{
     max-width: 500px;
-    padding: 10px;
+    padding: 20px 0px;
     margin: auto;
 }
 
@@ -59,7 +59,6 @@ footer > p{
     display: grid;
     grid-template-columns: 370px 370px 370px;
     grid-template-areas: "columnaIzda columnaCentro columnaDerecha";
-    min-height: 73vh;
     background-color: hsl(0, 0%, 98%);
 }
 .columnaTarjetas{
@@ -152,11 +151,14 @@ footer > p{
     }
 }
 @media (max-width: 400px){
+    #tarjetasHeader{
+        padding: 40px 40px;
+    }
     #tarjetasHeader > h1{
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     #tarjetasHeader > h2{
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     .tarjeta{
         width: 300px;
